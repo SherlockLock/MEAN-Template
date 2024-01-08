@@ -1,0 +1,21 @@
+/* Add custom styles for your admin dashboard here */
+
+/* Sidebar styles */
+#sidebar {
+    min-width: 230px;
+  }
+  
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    padding-top: 20px;
+  }
+  
+  /* Main content styles */
+  main {
+    padding-top: 20px;
+  }
+  
